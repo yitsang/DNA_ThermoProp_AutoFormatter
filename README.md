@@ -1,7 +1,8 @@
-# DNA_ThermoProp_AutoFormatter
+# DNA_ThermoProp_AutoFormatter 
 
 ## Description
-This MATLAB script calculates the thermodynamic properties for a given set of DNA sequences using the `oligoprop` function. The script is divided into three parts:
+This MATLAB script calculates the thermodynamic properties for a given set of DNA sequences using the `oligoprop` function. 
+The script is divided into three parts and only contain HGS:
 1. **Part 1**: Display thermodynamic properties by Sequence.
 2. **Part 2**: Display thermodynamic properties by Reference.
 3. **Part 3**: Display thermodynamic properties by Properties.
