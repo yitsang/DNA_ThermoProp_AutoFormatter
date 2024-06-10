@@ -1,7 +1,7 @@
 %--------------------------------------------------
 % Script Name: DNA_ThermoProp_AutoFormatter
 % Description: This script calculates the thermodynamic properties for a given set of DNA sequences using oligoprop.
-%              The script is divided into three parts:
+%              The script is divided into three parts and only contains Enthalpy, Entropy and Gibbs Free Energy calculation::
 %              Part 1: Display thermodynamic properties by Sequence.
 %              Part 2: Display thermodynamic properties by Reference.
 %              Part 3: Display thermodynamic properties by Properties.
